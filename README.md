@@ -37,7 +37,7 @@ self.navigationController.interactivePopGestureRecognizer.delaysTouchesBegan = N
 
   [1]: http://segmentfault.com/q/1010000002490506
   [2]: http://cl.ly/image/0F2L3L0R232c/Button_touch_down_1.png
-  [3]: /img/bVkT9u
+  [3]: http://cl.ly/image/3f0Q2A1v2j0b/2170531068-54e338287de1f_articlex.png
   [4]: http://stackoverflow.com/questions/24990362/placing-a-uibutton-in-the-same-space-as-uitabbar-when-hidden
-  [5]: /img/bVkT9O
+  [5]: http://cl.ly/image/3l1f2F1K0X0x/2020910826-54e343814c310_articlex.png
   [6]: http://stackoverflow.com/questions/24990362/placing-a-uibutton-in-the-same-space-as-uitabbar-when-hidden
