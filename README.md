@@ -1,4 +1,3 @@
-本blog除部分译文外，所有内容均为原创，如有雷同，算我抄你:-)
 ##问题描述
 问题来自于[iOS UIButton 的 touchDown 事件][1]这篇帖子。简单地说，在设置
 ```objc
@@ -37,7 +36,7 @@ self.navigationController.interactivePopGestureRecognizer.delaysTouchesBegan = N
 
 
   [1]: http://segmentfault.com/q/1010000002490506
-  [2]: /img/bVkT5x
+  [2]: http://cl.ly/image/0F2L3L0R232c/Button_touch_down_1.png
   [3]: /img/bVkT9u
   [4]: http://stackoverflow.com/questions/24990362/placing-a-uibutton-in-the-same-space-as-uitabbar-when-hidden
   [5]: /img/bVkT9O
